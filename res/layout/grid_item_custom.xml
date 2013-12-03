@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="15dp" >
+
+    <LinearLayout
+        android:id="@+id/colourPad"
+        android:layout_width="30dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/green"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/siteImg"
+            android:padding="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wiki_white" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/sitelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center_vertical"
+        android:background="#e5e5e5"
+        android:padding="5dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/notiCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:layout_gravity="right"
+            android:padding="2dp"
+            android:textColor="#fff"
+            android:background="@color/red"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/Sitename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:singleLine="true"
+            android:textColor="@color/green"
+            android:text="The NEXT WEB"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/Siteurl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:singleLine="true"
+            android:text="www.thenextweb.com"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000" />
+    </LinearLayout>
+
+</LinearLayout>

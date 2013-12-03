@@ -1,0 +1,69 @@
+<oryx>
+	<list>
+		<url>
+			<title> Disney Parks Blog - The official blog for Disneyland Resort,
+				Walt Disney World and Disney Cruise Line</title>
+			<link>http://disneyparks.disney.go.com/blog</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>Gadling | travel blog | news, stories, deals, and tips.
+			</title>
+			<link>http://www.gadling.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>LandLopers</title>
+			<link>http://landlopers.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>Hack my Trip</title>
+			<link>http://hackmytrip.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>Luxury Launches</title>
+			<link>http://luxurylaunches.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>MayorWatch &#8212; London News and Comment</title>
+			<link>http://www.mayorwatch.co.uk</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>Hotel Reviews, Hotel Ratings, Hotel Openings || HotelChatter
+			</title>
+			<link>http://www.hotelchatter.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>Faith is Torment | Art and Design Blog</title>
+			<link>http://www.faithistorment.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>Peter Greenberg Travel Detective - An Insider's Guide to
+				Travel: News, Tips, Information &amp; Inspiration</title>
+			<link>http://www.petergreenberg.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+		<url>
+			<title>WeekDayDreamer | Focus on your next Florida vacation and
+				escape the 9-5 grind.</title>
+			<link>http://www.weekdaydreamer.com</link>
+			<favLocal />
+			<favUrl />
+		</url>
+	</list>
+</oryx>

@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'myface';
+    src: url("file:///android_asset/fonts/roboto.ttf")
+}
+
+body {
+	font-family: 'myface', serif;
+	font-size:16px;
+	background-color:#3e3e3e;
+}
+
+.main p{
+
+	text-align:justify;
+	text-justify:inter-word;
+}
+
+
+.main{
+	width: 100%;
+    float: left;
+}
+
+.contentDiv{
+	padding:5px;
+	background-color:#fff;
+}
+
+.contentDiv a{
+	color:#4bb3d3;
+	text-decoration:none;
+}
+
+/* RSS item css beginesssssssssss --------------------*/
+.rss-item{
+		background-color:#fff;
+		padding:2px;
+		border-bottom: 2px solid #3e3e3e;
+		min-height:200px;
+
+
+}
+
+.fav-img{
+	width:32px;
+	height:32px;
+	margin-left:5px;
+	margin-right:5px;
+}
+.rssheader hr {
+	border: 0; border-top: 1px solid #fa0c0c;
+}
+
+.rssheader p {
+		font-size:18px;
+		font-weight:bold;
+		text-align:left;
+		color:#fff;
+		text-align:justify;
+		text-justify:inter-word;
+}
+
+.rss-date span{
+
+	font-size:12px;
+	padding-left:3px;
+	padding-right:3px;
+	background-color:#e5e5e5;
+	
+}
+.rss-topic {
+	color:#000;
+	font-size:18px;
+	text-decoration:none;
+
+}
+.rss-item hr {
+	border: 0; border-top: 2px solid #3e3e3e;
+}
+.rss-content span{
+	color:#000;
+}
+.rss-content {
+	text-align:justify;
+	text-justify:inter-word;
+	color:gray;
+	font-size:14px;
+	padding-right:5px;
+	padding-left:5px;
+}
+
+.rss-img {
+	width:120px;
+	height:auto;
+	margin-left:5px;
+	margin-right:5px;
+}

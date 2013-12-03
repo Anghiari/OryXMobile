@@ -1,0 +1,111 @@
+<oryx>
+
+    <list>
+
+        <url>
+
+            <title>
+				Hollywood Life - Latest Hollywood Gossip, News Celeb Pics
+            </title>
+
+            <link>
+				http://hollywoodlife.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+            	HYPEBEAST. Online Magazine for Fashion, Arts, Design and Culture
+            </title>
+
+            <link>
+					http://hypebeast.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+		MTV Style			
+            </title>
+
+            <link>
+http://style.mtv.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Designs by top fashion designers
+            </title>
+
+            <link>
+http://www.bevoguish.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Fashionista
+            </title>
+
+            <link>
+http://fashionista.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+LA MODEST :: Conservative indie modest fashion style blogger
+            </title>
+
+            <link>
+http://alamodest.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+A  Few Goody Gumdrops A coveted list of this season's most desired goodies and fashion trends!
+            </title>
+
+            <link>
+http://www.afewgoodygumdrops.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+    </list>
+
+</oryx>

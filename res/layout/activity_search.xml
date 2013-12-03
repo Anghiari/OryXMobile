@@ -1,0 +1,168 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context=".SearchActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/searchHome"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:background="#3e3e3e"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:src="@drawable/home" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="right" >
+
+                <TextView
+                    android:id="@+id/headererer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#e5e5e5"
+                    android:padding="10dp"
+                    android:text="Search"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#3e3e3e" />
+
+                <ImageView
+                    android:id="@+id/searchUserBtn"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/blue"
+                    android:padding="5dp"
+                    android:src="@drawable/user_white" />
+
+                <ImageView
+                    android:id="@+id/voiceSearchBtn"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/red"
+                    android:padding="5dp"
+                    android:src="@drawable/mic" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp" >
+
+            <AutoCompleteTextView
+                android:id="@+id/searchEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#e5e5e5"
+                android:completionThreshold="1"
+                android:ems="10"
+                android:hint="Type to Search"
+                android:padding="5dp"
+                android:singleLine="true" >
+            </AutoCompleteTextView>
+
+            <ImageView
+                android:id="@+id/actSearchBtn"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@color/yellow"
+                android:padding="5dp"
+                android:src="@drawable/search_white" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/gotoURLView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:visibility="invisible" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#ddd"
+                    android:gravity="center_vertical"
+                    android:padding="5dp"
+                    android:text="GOTO" />
+
+                <TextView
+                    android:id="@+id/gotoURLText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="@color/blue"
+                    android:gravity="center_vertical"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:text="http://www.gsgsgsfg.com"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@android:id/empty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="300dp"
+                    android:layout_height="300dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/watermark" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/listViewLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <ListView
+                    android:id="@android:id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:divider="#fff" >
+                </ListView>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

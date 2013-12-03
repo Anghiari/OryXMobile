@@ -1,0 +1,156 @@
+<oryx>
+
+    <list>
+
+        <url>
+
+            <title>
+Business Insider
+            </title>
+
+            <link>
+http://www.businessinsider.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Zero Hedge | On a long enough timeline the survival rate for everyone drops to zero
+            </title>
+
+            <link>
+http://www.zerohedge.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Calculated Risk
+            </title>
+
+            <link>
+http://www.calculatedriskblog.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Business 2 Community - Building Deeper Business Relationships Through Engaging Communities
+            </title>
+
+            <link>
+http://www.business2community.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Inside AdWords
+            </title>
+
+            <link>
+http://adwords.blogspot.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Social Media Examiner: Social media marketing how to, research, case studies, news and more!
+            </title>
+
+            <link>
+http://www.socialmediaexaminer.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Frugal Rules - Freedom Through Frugality
+            </title>
+
+            <link>
+http://www.frugalrules.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Internet Marketing Software - Search Marketing Tools for SEO PPC | WordStream Inc
+            </title>
+
+            <link>
+http://www.wordstream.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Search Engine Journal | Search Marketing Advice, News and Tutorials
+            </title>
+
+            <link>
+http://www.searchenginejournal.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Value Walk
+            </title>
+
+            <link>
+http://www.valuewalk.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+    </list>
+
+</oryx>

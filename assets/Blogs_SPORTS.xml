@@ -1,0 +1,188 @@
+<oryx>
+
+    <list>
+
+        <url>
+
+            <title>
+Sports News, Scores and Fan Opinion Powered by 310 Sports Blogs
+            </title>
+
+            <link>
+http://www.sbnation.com
+            </link>
+
+            <favLocal>
+favs/sbnation.ico
+            </favLocal>
+
+            <favUrl>
+http://cdn1.sbnation.com/uploads/hub/favicon/247/favicon-0666b2d5.ico
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+Deadspin - Sports News without Access, Favor, or Discretion
+            </title>
+
+            <link>
+http://deadspin.com 
+            </link>
+
+            <favLocal>
+favs/deadspin.ico
+            </favLocal>
+
+            <favUrl>
+http://kinja.com/assets/images/logos/favicons/deadspin.ico
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+The Big Lead | Sports News and Media
+            </title>
+
+            <link>
+http://www.thebiglead.com
+            </link>
+
+            <favLocal>
+favs/thebiglead.ico
+            </favLocal>
+
+            <favUrl>
+http://0.gravatar.com/blavatar/a534fee0274dc1ee3396994f7fd56e3d?s=16
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+MLB Rumors - MLBTradeRumors.com
+            </title>
+
+            <link>
+http://www.mlbtraderumors.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Bleacher Report | Entertaining sports news, photos and slideshows
+            </title>
+
+            <link>
+http://bleacherreport.com
+            </link>
+
+            <favLocal>
+favs/bleacherreport.ico
+            </favLocal>
+
+            <favUrl>
+http://static.bleacherreport.net/favicon.ico
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+Arrowhead Pride | Kansas City Chiefs Schedule, News, Roster and Stats
+            </title>
+
+            <link>
+http://www.arrowheadpride.com
+            </link>
+
+            <favLocal>
+favs/arrowheadpride.ico
+            </favLocal>
+
+            <favUrl>
+http://cdn2.sbnation.com/uploads/blog/favicon/59/favicon-fbd30e77.ico
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+Sports | Boston Herald
+            </title>
+
+            <link>
+http://bostonherald.com/sports
+            </link>
+
+            <favLocal>
+favs/bostonherald.ico
+            </favLocal>
+
+            <favUrl>
+http://bostonherald.com/sites/default/files/images/favicon.ico
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+Rant Sports &#8212; News, Rumors, Videos and More
+            </title>
+
+            <link>
+http://www.rantsports.com
+            </link>
+
+            <favLocal />
+
+            <favUrl />
+        </url>
+
+        <url>
+
+            <title>
+Bless You Boys, a Detroit Tigers community
+            </title>
+
+            <link>
+http://www.blessyouboys.com
+            </link>
+
+            <favLocal>
+favs/blessyouboys.ico
+            </favLocal>
+
+            <favUrl>
+http://cdn3.sbnation.com/uploads/blog/favicon/23/favicon-d5cb748c.ico
+            </favUrl>
+        </url>
+
+        <url>
+
+            <title>
+MLB Trade Rumors and Signings
+            </title>
+
+            <link>
+http://www.mlbdailydish.com/
+            </link>
+
+            <favLocal>
+favs/mlbdailydish.ico
+            </favLocal>
+
+            <favUrl>
+http://cdn1.sbnation.com/uploads/blog/favicon/228/favicon-53333fe5.ico
+            </favUrl>
+        </url>
+    </list>
+
+</oryx>
